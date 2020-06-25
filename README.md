@@ -12,3 +12,7 @@ It was about creating your first HTML Page with some commonly used tags.
 Using some semantic tags.
 Creating a form.
 Creating a table.
+
+## Task3
+
+Things we learned in HTML
