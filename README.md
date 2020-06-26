@@ -16,3 +16,7 @@ Creating a table.
 ## Task3
 
 Things we learned in HTML
+
+## Task4
+
+Basic HTML page using new tags.
