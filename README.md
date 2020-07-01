@@ -20,3 +20,11 @@ Things we learned in HTML
 ## Task4
 
 Basic HTML page using new tags.
+
+## Task5
+
+HTML tags like aside and float
+
+## Task6
+
+A web portfolio using HTML and CSS
