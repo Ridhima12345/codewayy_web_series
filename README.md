@@ -28,3 +28,7 @@ HTML tags like aside and float
 ## Task6
 
 A web portfolio using HTML and CSS
+
+## Task7
+
+Responsive pages using media query
